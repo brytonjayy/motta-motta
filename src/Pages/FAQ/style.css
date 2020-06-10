@@ -1,0 +1,16 @@
+.is-centered {
+    text-align: center;
+}
+
+.is-padded {
+    margin: 15px;
+}
+
+.motta-subtitle {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.motta-p {
+    margin-bottom: 1em;
+}
