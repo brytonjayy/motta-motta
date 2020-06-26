@@ -1,0 +1,22 @@
+.CoverArt {
+  height: 100vh;
+  width: 100vw;
+}
+
+.Content {
+  width: 30vw;
+  padding: 25px;
+  text-align: center;
+}
+
+.QuoteText, .QuoteSource {
+  color: white;
+}
+
+.QuoteText {
+  font-size: 1.75em;
+}
+
+.QuoteSource {
+  font-size: 1.5em;
+}
